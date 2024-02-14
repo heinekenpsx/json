@@ -1,0 +1,36 @@
+{
+    "name": "Heineken's Repo",
+    "subtitle": "A repo hosted by Heineken",
+    "description": "",
+    "iconURL": "",
+    "headerURL": "",
+    "website": "",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "Google Authenticator",
+            "bundleIdentifier": "com.google.Authenticator",
+            "developerName": "Google",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Google_Authenticator_%28April_2023%29.svg/1200px-Google_Authenticator_%28April_2023%29.svg.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "4.1.0",
+                  "date": "2023-01-25",
+                  "localizedDescription": "",
+                  "downloadURL": "https://und3fy-my.sharepoint.com/personal/nov19_und3fy_dev/_layouts/15/download.aspx?share=Ee6GDNKXgjpBgKEMGLpXcj8BBn4mu-NH0hST-7ZXp7EvhQ",
+                  "size": 11162,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
