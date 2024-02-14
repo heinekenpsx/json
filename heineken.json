@@ -31,6 +31,26 @@
               ],
             "appPermissions": {}
         }
-    ],
-    "news": []
-  }
+        {
+            "name": "Slow Mo Run",
+            "bundleIdentifier": "com.paurau.SlowMoRunner",
+            "developerName": "SuperSonic Studio Ltd",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://dl.memuplay.com/new_market/img/com.paurau.SlowMoRun.icon.2023-05-12-23-44-35.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "5.5",
+                  "date": "2023-01-25",
+                  "localizedDescription": "",
+                  "downloadURL": "https://und3fy-my.sharepoint.com/personal/nov19_und3fy_dev/_layouts/15/download.aspx?share=EZ0bQ6UjdAlHn3mhteKgOZ0BO0wfrDh4QuXX9UDVr7mqPA",
+                  "size": 342528,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
